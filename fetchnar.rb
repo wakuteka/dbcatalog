@@ -4,7 +4,7 @@ require 'open-uri'
   array = []
 
 
-1.upto(2) { |i|
+3.upto(4) { |i|
 
 uri = "http://oxfordjournals.org/nar/database/summary/#{i}"
 begin
@@ -24,7 +24,7 @@ begin
 
   ct_e_openid = ct_m_openid = "http://openid.dbcls.jp/user/wakuteka"  
 
-  ct_entry = ct_modified = "2009-09-24 15:15:15"
+  ct_entry = ct_modified = "2009-09-30 13:15:15"
 array.push({"ct_title_j" => ct_title_j, 
            "ct_title_e" => ct_title_e, 
            "ct_url" => ct_url,
