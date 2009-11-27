@@ -7,6 +7,6 @@ README
 	nar_data.sql
 	nar_database.csv
 	nar_database2.csv
-	newtree.csv
+	newtree.csv - source of newtree table
 	tree.sql_half1
 	tree.sql_half2
