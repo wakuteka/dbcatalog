@@ -1,0 +1,55 @@
+
+Nucleotide Sequence Databases
+International Nucleotide Sequence Database Collaboration
+Coding and non-coding DNA
+Gene structure, introns and exons, splice sites
+Transcriptional regulator sites and transcription factors
+RNA sequence databases
+Protein sequence databases
+General sequence databases
+Protein properties
+Protein localization and targeting
+Protein sequence motifs and active sites
+Protein domain databases; protein classification
+Databases of individual protein families
+Structure Databases
+Small molecules
+Carbohydrates
+Nucleic acid structure
+Protein structure 
+Genomics Databases (non-vertebrate)
+Genome annotation terms, ontologies and nomenclature
+Taxonomy and identification
+General genomics databases
+Viral genome databases
+Prokaryotic genome databases
+Unicellular eukaryotes genome databases
+Fungal genome databases
+Invertebrate genome databases
+Metabolic and Signaling Pathways
+Enzymes and enzyme nomenclature
+Metabolic pathways
+Protein-protein interactions
+Signalling pathways
+Human and other Vertebrate Genomes
+Model organisms, comparative genomics
+Human genome databases, maps and viewers
+Human ORFs
+Human Genes and Diseases
+General human genetics databases
+General polymorphism databases
+Cancer gene databases
+Gene-, system- or disease-specific databases
+Microarray Data and other Gene Expression Databases
+Proteomics Resources
+Other Molecular Biology Databases
+Drugs and drug design
+Molecular probes and primers 
+Organelle databases
+Mitochondrial genes and proteins
+Plant databases
+General plant databases
+Arabidopsis thaliana
+Rice
+Other plants
+Immunological databases
